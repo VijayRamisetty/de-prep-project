@@ -3,3 +3,4 @@
 /workspace.xml
 /.idea/
 /.venv/
+/tests/integration/__pycache__/
